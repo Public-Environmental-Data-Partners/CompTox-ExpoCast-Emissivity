@@ -1,3 +1,5 @@
+_This repo was forked for archival purposes by the [Public Environmental Data Partners](https://screening-tools.com/)._
+
 # CompTox-ExpoCast-Emissivity
 Data and analysis scripts from Watson et al. (submitted) study of chemical emission from consumer products.
 
